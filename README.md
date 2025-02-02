@@ -1,5 +1,5 @@
 
-# Quizz App
+# Quiz App
 
-This is my second flutter app!
+This is a simple "Quiz App" built with Flutter!
 
